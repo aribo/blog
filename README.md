@@ -1,1 +1,3 @@
-# blog
+# Blog
+Domain: alejandroribo.com
+
